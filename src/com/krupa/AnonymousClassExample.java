@@ -1,5 +1,5 @@
 package com.krupa;
-
+//nadaf from xworkz
 public class AnonymousClassExample {
 	public static void main(String[] args) {
 		/*Message anonmsg =  new Message(){
@@ -7,6 +7,7 @@ public class AnonymousClassExample {
 				System.out.println(msg);
 			}
 		};
+		
 		anonmsg.send("Hello This is Xworkz from anonymous class");
 		System.out.println("---------------------------------------------------");*/
 		
